@@ -806,8 +806,6 @@ svg {
     gap: 18px;
 }
 
-.skill-bar-item {}
-
 .skill-bar-head {
     display: flex;
     justify-content: space-between;
